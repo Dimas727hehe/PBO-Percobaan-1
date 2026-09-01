@@ -1,4 +1,4 @@
-public class main {
+public class DemoBenda {
     public static void main(String[] args) {
         Komputer mypc = new Komputer();
         Laptop mylaptop = new Laptop();
